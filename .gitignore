@@ -2,7 +2,7 @@ bin/
 vendor/
 
 # Binaries for programs and plugins
-*.exe
+*.exedfd
 *.exe~
 *.dll
 *.so
